@@ -8,5 +8,9 @@
     "start": "node server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "formidable": "^1.0.17",
+    "querystring": "^0.2.0"
+  }
 }
